@@ -1,2 +1,2 @@
 # whaledr.github.io
-info repo main website 
+Let's make this a map of what's what...
